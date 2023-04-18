@@ -1,0 +1,1 @@
+h1{text-align:center;text-decoration:underline}#content{display:flex;flex-direction:column;justify-content:center}#content *{margin-top:.5em}#album-cover{width:35rem;align-self:center}#artist-form{display:grid;grid-template-columns:80% 20%}
